@@ -3,3 +3,5 @@
 ################################################################################
 
 *.vsidx
+/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/.vs/PlaceholderTextBox/v17/.suo
